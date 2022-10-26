@@ -1,5 +1,16 @@
 # Getting Started with SecretWord
 
+This project was developed to improve logic knowledge through state manipulation with useState in React.
+
+In it we will deal with:
+useState
+useEffect
+useRef
+.map
+conditionals (if and else)
+css
+
+
 ![image](https://user-images.githubusercontent.com/60449239/197909094-fa7b210e-53ea-44aa-bcaa-cd4da9ae9d43.png)
 
 
