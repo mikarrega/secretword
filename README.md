@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with SecretWord
+
+![image](https://user-images.githubusercontent.com/60449239/197909094-fa7b210e-53ea-44aa-bcaa-cd4da9ae9d43.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
